@@ -1,0 +1,82 @@
+{
+  "uploadVideos": [
+    {
+      "id": "2664",
+      "caption": "kalank",
+      "imgUrl": "https://www.filmibeat.com/fanimg/movie/17080/kalank-2019-photos-images-64693.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/e8B0AzmXPV8"
+    },
+    {
+      "id": "2379",
+      "caption": "sita ramam",
+      "imgUrl": "https://cmassets.sgp1.cdn.digitaloceanspaces.com/assets/blogcoverpic/large/1659957471868.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/9P9DiRpayFE"
+    },
+    {
+      "id": "43cb",
+      "caption": "ennu ninte moidheen",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjNmZmY2OTItODUyYy00YjVmLWEwYTUtM2EwZDgyMzNmNTI0XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/graP-a1MxN4"
+    },
+    {
+      "id": "4df4",
+      "caption": "shiddat",
+      "imgUrl": "https://e0.pxfuel.com/wallpapers/543/686/desktop-wallpaper-shiddat-2021-disney-hotstar-original-movie-review-siddat.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/vJQMhj6WYZA"
+    },
+    {
+      "id": "cbac",
+      "caption": "vaazha",
+      "imgUrl": "https://media.assettype.com/newindianexpress%2F2024-08-16%2Fhj81ongx%2FThis%20shallow%20exploration.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "youtubeLink": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3201",
+      "categoryName": "music",
+      "allVideos": []
+    },
+    {
+      "id": "4dbb",
+      "categoryName": "trailer",
+      "allVideos": []
+    },
+    {
+      "id": "4335",
+      "categoryName": "Tutorials",
+      "allVideos": []
+    },
+    {
+      "id": "02e5",
+      "categoryName": "vlog",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "0da4",
+      "caption": "leo trailer",
+      "youtubeLink": "https://www.youtube.com/embed/${videoId}",
+      "timeStamp": "10/31/2024, 10:44:38 AM GMT+5:30"
+    },
+    {
+      "id": "32fa",
+      "caption": "vazha",
+      "youtubeLink": "https://www.youtube.com/embed/${videoId}",
+      "timeStamp": "10/31/2024, 10:44:41 AM GMT+5:30"
+    },
+    {
+      "id": "f3aa",
+      "caption": "vaazha",
+      "youtubeLink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timeStamp": "11/6/2024, 9:22:33 AM GMT+5:30"
+    },
+    {
+      "caption": "vaazha",
+      "youtubeLink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timeStamp": "11/7/2024, 9:19:09 AM GMT+5:30",
+      "id": "7USZhsE"
+    }
+  ]
+}
